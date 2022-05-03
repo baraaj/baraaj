@@ -6,7 +6,7 @@ I’m Baraa Jridi a Tunisian Software Engineering Student.
 
 🌱I’m currently learning Web developpment.
  
- Linkedin: Baraa Jridi
+ Linkedin:https://www.linkedin.com/in/baraa-jridi-b5b261198/ 
 <!--
 **baraaj/baraaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
