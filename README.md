@@ -1,5 +1,6 @@
  
-👋 Hi there,I’m Baraa Jridi a Tunisian Software Engineering Student. 
+👋 Hi there,
+I’m Baraa Jridi a Tunisian Software Engineering Student. 
 👀 I’m interested in IT. 
 🌱I’m currently learning Web developpment.
 <!--
