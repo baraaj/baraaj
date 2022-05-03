@@ -8,7 +8,7 @@ I’m Baraa Jridi a Tunisian Software Engineering Student.
 🌱I’m currently learning Web developpment.
 
 
-💞️ I’m looking to collaborate on projects with technologies and tools like Java  PHP  MySQL  NodeJS  React 
+ 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/baraa-jridi-b5b261198/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
