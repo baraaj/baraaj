@@ -1,5 +1,7 @@
-### Hi there 👋
-
+ 
+👋 Hi there,I’m Baraa Jridi a Tunisian Software Engineering Student. 
+👀 I’m interested in IT. 
+🌱I’m currently learning Web developpment.
 <!--
 **baraaj/baraaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
