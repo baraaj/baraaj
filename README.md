@@ -12,7 +12,7 @@ I’m Baraa Jridi a Tunisian Software Engineering Student.
   <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> 
   <img src="https://servicenav.coservit.com/wp-content/uploads/2021/05/29.jpg" alt="symfony" width="40" height="40"/> </a> <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://blog.octo.com/wp-content/uploads/2018/01/node-300x300.jpg" alt="xd" width="40" height="40"/> </a>
 <a href="https://expressjs.com/fr" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/800/1*9AbbVli10NreTXCpiVYEOQ.png" alt="xd" width="40" height="40"/> </a></p>
-
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>
  
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/baraa-jridi-b5b261198/">
