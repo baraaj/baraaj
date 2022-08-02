@@ -11,6 +11,7 @@ I’m Baraa Jridi a Tunisian Software Engineering Student.
   <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> 
    </a> <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://blog.octo.com/wp-content/uploads/2018/01/node-300x300.jpg" alt="xd" width="40" height="40"/> </a>
 <a href="https://expressjs.com/fr" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/800/1*9AbbVli10NreTXCpiVYEOQ.png" alt="xd" width="40" height="40"/> </a></p>
+<a href="https://github.com/baraaj/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=baraaj&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/baraaj/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baraaj&layout=compact&theme=buefy&hide_border=true" /></a> |
  
  
 <div id="badges" align="center">
