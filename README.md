@@ -1,7 +1,4 @@
- 
-<p align="center"><a href="https://baraaj.github.io"><img width="80%" alt="Hello, I'm Baraa!" src="./assets/gh-readme-header.png" /></a></p>
-
-<br />
+Hello there!
 
 I’m Baraa Jridi a Tunisian Software Engineering Student. 
 
