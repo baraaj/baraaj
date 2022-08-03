@@ -14,6 +14,8 @@ I’m Baraa Jridi a Tunisian Software Engineering Student.
 <a href="https://github.com/baraaj/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=baraaj&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/baraaj/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baraaj&layout=compact&theme=buefy&hide_border=true" /></a> |
  
  
+ 
+ 📫 How to reach me:
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/baraa-jridi-b5b261198/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
