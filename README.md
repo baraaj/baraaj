@@ -5,6 +5,7 @@ I’m Baraa Jridi a Tunisian Software Engineering Student.
 👀 I’m interested in IT. 
 
 🌱I’m currently learning Web developpment.
+
 📫 How to reach me:
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/baraa-jridi-b5b261198/">
