@@ -15,7 +15,7 @@ I’m Baraa Jridi a Tunisian Software Engineering Student.
  <a href="https://mail.google.com/mail/u/1/?view=cm&fs=1&to=jeridibaraa@gmail.com&tf=1">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
  </a>
- <img align='right' src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="230">
+ 
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
