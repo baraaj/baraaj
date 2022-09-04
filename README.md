@@ -1,4 +1,5 @@
 Hello there!
+<img align='right' src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="230">
 
 I’m Baraa Jridi a Tunisian Software Engineering Student. 
 
