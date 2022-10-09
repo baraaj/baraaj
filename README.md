@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <div align="center">
  <a href="https://mail.google.com/mail/u/1/?view=cm&fs=1&to=jeridibaraa@gmail.com&tf=1">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"/>
  </a>
 <a href="https://github.com/baraaj" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
