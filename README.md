@@ -51,10 +51,5 @@
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=baraaj&&style=flat-square)  
+
   
-
-<br/>  
-
-
-<br />
