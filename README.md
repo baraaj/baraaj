@@ -26,9 +26,7 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baraaj&show_icons=true&locale=en" alt="baraaj" /></p>
-
-
+ 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
@@ -46,7 +44,7 @@
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=baraaj&&style=flat-square)  
   
 
 <br/>  
