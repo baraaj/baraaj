@@ -5,9 +5,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/baraaj](https://github.com/baraaj)
 
-- 💬 Ask me about **react,javascript,node**
+- ❓ Ask me about anything related to MERN stack and related technologies  
 
 - 📫 How to reach me **jeridibaraa@gmail.com**
+
+- 🔍  I’m looking for an end of studies internship.
+
+- ⚡ Fun fact: I keep night shift swithed on at all times   
 
 <h3 align="left">Connect with me:</h3>
 <div align="center">
