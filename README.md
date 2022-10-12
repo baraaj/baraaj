@@ -6,6 +6,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/baraaj](https://github.com/baraaj)
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
+       Don't forget to bring coffee with you ☕
 
 - 📫 How to reach me **jeridibaraa@gmail.com**
 
