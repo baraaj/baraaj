@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Baraa</h1>
+<h1 align="center">Hi 👋, I'm Baraa Jridi</h1>
 <h3 align="center">A passionate fullstack developer from Tunisia</h3>
 <img align='right' src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="230">
 
