@@ -12,7 +12,6 @@
 
 - 🔍  I’m looking for an end of studies internship.
 
-- ⚡ Fun fact: I keep night shift switched on at all times   
 
 <h3 align="left">Connect with me:</h3>
 <div align="center">
