@@ -7,6 +7,7 @@
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
        Don't forget to bring coffee with you ☕
+- I'm currently learning react native.
 
 - 📫 How to reach me **jeridibaraa@gmail.com**
 
