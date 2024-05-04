@@ -11,8 +11,7 @@
 
 - 📫 How to reach me **jeridibaraa@gmail.com**
 
-- 🔍  I’m looking for an end of studies internship.
-
+ 
 
 <h3 align="left">Connect with me:</h3>
 <div align="center">
